@@ -1,5 +1,5 @@
 CP101-Project
-This is Python with GUI(Graphic user interface).
+This is my Python Project with GUI.
 
 
 DOWNLOAD:
